@@ -18,16 +18,11 @@ Understand the Problem
 
 * requirements are explicit
   * take notes
-  * the odd words problem
 * requirements are not so explicit and need to be modeled
   * examples need to be described in computational words
-  * diamond of stars
 * implicit knowledge needs to be captured
   * convert to explicit rules, in computational language
-  * what century is that
 * identifying and defining important terms and concepts
-  * queen attack
-  * same row; same column; esp. same diagonal
 * ask questions to verify your understanding!
 
 Examples / Test Cases
