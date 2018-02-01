@@ -1,15 +1,3 @@
-=begin
-Input: string
-Output: string
-      - the next to last word in the String passed to it as an argument.
-Words are any sequence of non-blank characters.
-You may assume that the input String will always contain at least two words.
-
-Data Structures: array, string
-Algorithm:
-split string by words. return array's value at second to last index
-=end
-
 def penultimate(str)
   str.split[-2]
 end
